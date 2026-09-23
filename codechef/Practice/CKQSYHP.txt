@@ -1,0 +1,8 @@
+// Problem: CKQSYHP
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/skill-test/CKQSYHP
+// Solved on: 2026-09-23T06:38:11.939Z
+
+// source not captured automatically - open the solution page and copy it manually
