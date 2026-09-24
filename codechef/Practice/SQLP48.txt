@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLPRAC05/problems/SQLP48
-// Solved on: 2026-09-24T18:58:56.791Z
+// Solved on: 2026-09-24T18:59:03.999Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
