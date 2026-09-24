@@ -1,0 +1,8 @@
+// Problem: Till how many levels ( maximum ) can we nest Aggregate functions ?
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLPRAC05/problems/SQLP46
+// Solved on: 2026-09-24T18:57:54.461Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
