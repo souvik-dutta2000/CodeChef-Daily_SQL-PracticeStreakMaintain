@@ -1,0 +1,8 @@
+// Problem: What is the return type of count function ?
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLPRAC05/problems/SQLP44
+// Solved on: 2026-09-24T17:50:56.577Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
