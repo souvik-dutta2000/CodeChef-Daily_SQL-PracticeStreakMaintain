@@ -1,0 +1,8 @@
+// Problem: SQLP23
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLPRAC03/problems/SQLP23
+// Solved on: 2026-09-27T18:39:50.824Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
