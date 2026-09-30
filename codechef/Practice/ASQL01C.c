@@ -10,8 +10,8 @@ INNER JOIN
 ON
     e1.manager_id = e2.employee_id;
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01C?tab=Help
-// Solved on: 2026-09-30T15:37:13.953Z
+// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01C
+// Solved on: 2026-09-30T15:38:14.570Z
 
 -- We have a student table that also stores the Course_id of a student's favorite course. Our task has two parts related to using a SELF JOIN:
 
