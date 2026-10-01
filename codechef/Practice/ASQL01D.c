@@ -8,7 +8,7 @@
 select c.customer_name,o.order_date from c.customers inner join o.Orders on c.customer_id=o.customer_id ;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01D?tab=Help
-// Solved on: 2026-10-01T14:01:26.562Z
+// Solved on: 2026-10-01T14:02:34.859Z
 
 -- Customers and Orders: List the customer_name and order_date for all customers who have placed orders.
 
