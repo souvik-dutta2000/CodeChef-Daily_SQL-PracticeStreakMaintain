@@ -11,7 +11,7 @@ FROM customers c
 CROSS JOIN products p;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01F?tab=solution
-// Solved on: 2026-10-01T15:04:27.790Z
+// Solved on: 2026-10-01T15:04:41.133Z
 
 -- 1.Employee and Manager Names: Display a list of employee names along with their manager's names. Use the 'employees' table provided.
 
