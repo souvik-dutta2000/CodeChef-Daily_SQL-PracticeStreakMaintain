@@ -26,7 +26,7 @@ ORDER BY
     total_spent DESC;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01G?tab=solution
-// Solved on: 2026-10-01T15:05:39.767Z
+// Solved on: 2026-10-01T15:05:45.634Z
 
 -- 1.Product Report: List the Product name, with their category names, customer name, and the order date for customers who ordered that particular product.
 
