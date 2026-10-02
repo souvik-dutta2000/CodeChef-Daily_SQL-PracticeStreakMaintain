@@ -15,7 +15,22 @@ CREATE TABLE child_table (
     FOREIGN KEY (parent_column_id) REFERENCES parent_table(parent_column_id) -- Foreign key constraint
 );
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01?tab=statement
-// Solved on: 2026-10-02T17:54:07.288Z
+// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01?tab=solution
+// Solved on: 2026-10-02T18:00:03.606Z
 
 -- Write the SQL query to create the tables given above (Customers & Orders) with the given constraints like primary key, unique key, foreign key (do not insert data into the table).
+CREATE TABLE Customers (
+    Customer_id INT PRIMARY KEY,
+    customer_name VARCHAR(255),
+   city VARCHAR(255), -- Unique constraint on a single column
+   customer_email VARCHAR(30)Unique
+   
+);
+
+CREATE TABLE orders (
+    order_id INT PRIMARY KEY,
+    Customer_id INT
+   order_date date,
+   amount decimal(10.2),
+    FOREIGN KEY (Customer_id) REFERENCES Customers(Customer_id) -- Foreign key constraint
+);
