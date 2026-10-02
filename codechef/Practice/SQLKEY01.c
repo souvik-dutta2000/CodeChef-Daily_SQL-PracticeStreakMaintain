@@ -16,6 +16,6 @@ CREATE TABLE child_table (
 );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01
-// Solved on: 2026-10-01T15:06:12.738Z
+// Solved on: 2026-10-02T17:52:23.875Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
