@@ -15,7 +15,7 @@ CREATE TABLE Orders (
 );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01B?tab=Help
-// Solved on: 2026-10-02T18:09:06.680Z
+// Solved on: 2026-10-02T18:09:18.524Z
 
 -- Write a DELETE query to delete John Doe's details from Customers table and see changes in Orders t
 DELETE FROM Customers WHERE customer_name = 'John Doe';
