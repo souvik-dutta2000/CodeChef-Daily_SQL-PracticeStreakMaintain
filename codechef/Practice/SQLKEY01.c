@@ -16,7 +16,7 @@ CREATE TABLE child_table (
 );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01?tab=solution
-// Solved on: 2026-10-02T18:00:03.606Z
+// Solved on: 2026-10-02T18:11:42.558Z
 
 -- Write the SQL query to create the tables given above (Customers & Orders) with the given constraints like primary key, unique key, foreign key (do not insert data into the table).
 CREATE TABLE Customers (
