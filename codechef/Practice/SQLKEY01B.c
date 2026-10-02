@@ -14,8 +14,8 @@ CREATE TABLE Orders (
     FOREIGN KEY (customer_id) REFERENCES Customers(customer_id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01B?tab=Help
-// Solved on: 2026-10-02T18:11:45.196Z
+// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01B?tab=solution
+// Solved on: 2026-10-02T18:13:24.331Z
 
 -- Write a DELETE query to delete John Doe's details from Customers table and see changes in Orders t
 DELETE FROM Customers WHERE customer_name = 'John Doe';
