@@ -15,8 +15,8 @@ CREATE TABLE Orders (
     ON DELETE SET NULL ON UPDATE SET NULL
 );
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01C?tab=solution
-// Solved on: 2026-10-02T18:14:43.698Z
+// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01C
+// Solved on: 2026-10-02T18:15:59.846Z
 
 -- Write a delete query to delete John Doe's details from Customers table and notice the changes in the Orders table
 DELETE FROM Customers WHERE customer_name = 'John Doe';
