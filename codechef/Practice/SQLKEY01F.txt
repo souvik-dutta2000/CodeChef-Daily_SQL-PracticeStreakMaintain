@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01F
-// Solved on: 2026-10-03T13:02:26.270Z
+// Solved on: 2026-10-03T13:05:20.331Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
