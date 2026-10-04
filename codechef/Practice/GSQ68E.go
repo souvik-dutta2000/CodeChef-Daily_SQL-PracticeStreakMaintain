@@ -13,7 +13,7 @@
 └─────────┴───────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03/problems/GSQ68E?tab=statement
-// Solved on: 2026-10-04T17:53:01.271Z
+// Solved on: 2026-10-04T17:53:05.971Z
 
 /* Write a query to output a table with the list of all items in the supermarket. There already exit a table 'Item' there is another table 'Item_adn' The task is to combine these two tables. */
 select * from item union select *from Item_adn;
