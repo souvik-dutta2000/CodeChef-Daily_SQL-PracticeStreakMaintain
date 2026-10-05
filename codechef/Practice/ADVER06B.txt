@@ -1,0 +1,8 @@
+// Problem: ADVER06B
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03A/problems/ADVER06B
+// Solved on: 2026-10-05T18:20:30.548Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
