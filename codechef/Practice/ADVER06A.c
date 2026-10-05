@@ -39,7 +39,7 @@ CREATE TABLE DrPatient (
 );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03A/problems/ADVER06A?tab=solution
-// Solved on: 2026-10-05T18:20:10.279Z
+// Solved on: 2026-10-05T18:20:14.945Z
 
 CREATE TABLE Patients (
     SS VARCHAR(20) PRIMARY KEY,
