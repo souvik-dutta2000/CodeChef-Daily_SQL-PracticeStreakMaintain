@@ -13,7 +13,7 @@
 └─────────────────┴────────┴─────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS04/problems/GSQ74?tab=solution
-// Solved on: 2026-10-06T16:20:44.990Z
+// Solved on: 2026-10-06T16:20:54.602Z
 
 /* Write a query to do the following. Try and use the concept of sub-queries.
 - You need to output details of the dish - 'f_name', 'f_cost' and 'f_type' ONLY if the following condition is satisfied
