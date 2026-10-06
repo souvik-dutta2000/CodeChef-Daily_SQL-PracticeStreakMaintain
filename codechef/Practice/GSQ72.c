@@ -8,7 +8,7 @@
         WHERE department= e.department);
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS04/problems/GSQ72
-// Solved on: 2026-10-06T16:26:15.591Z
+// Solved on: 2026-10-06T16:28:37.198Z
 
 /* Write a query to retrieve the names of food items which cost less than the average cost of 'Continental' food type(f_type). */
 SELECT f_name
