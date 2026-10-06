@@ -10,7 +10,7 @@
 └──────┴────────────┴────────┴─────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS04/problems/GSQ69?tab=statement
-// Solved on: 2026-10-06T16:16:23.491Z
+// Solved on: 2026-10-06T16:16:29.389Z
 
 /* Write a query to output the first 3 rows of the table 'food' */
 select * from food
