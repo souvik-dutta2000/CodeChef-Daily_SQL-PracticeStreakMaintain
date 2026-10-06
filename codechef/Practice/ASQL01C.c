@@ -11,7 +11,7 @@ ON
     e1.manager_id = e2.employee_id;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01C
-// Solved on: 2026-10-02T18:11:01.511Z
+// Solved on: 2026-10-06T16:30:16.983Z
 
 -- We have a student table that also stores the Course_id of a student's favorite course. Our task has two parts related to using a SELF JOIN:
 
