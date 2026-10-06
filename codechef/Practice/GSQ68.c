@@ -10,7 +10,7 @@
 └─────────────┴───────────────┴──────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03/problems/GSQ68?tab=statement
-// Solved on: 2026-10-04T17:43:38.373Z
+// Solved on: 2026-10-06T16:31:28.185Z
 
 /* Write a query to output the table 'Customer'. Limit your results to 3 rows. */
 select * from customer
