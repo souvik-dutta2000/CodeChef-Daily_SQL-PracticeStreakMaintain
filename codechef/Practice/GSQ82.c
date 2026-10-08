@@ -6,7 +6,7 @@
        GROUP BY department;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS08/problems/GSQ82?tab=solution
-// Solved on: 2026-10-08T04:39:52.831Z
+// Solved on: 2026-10-08T04:39:57.630Z
 
 /* Write a query to count the number of students across departments who has scored more than 80 marks.*/
 SELECT department, 
