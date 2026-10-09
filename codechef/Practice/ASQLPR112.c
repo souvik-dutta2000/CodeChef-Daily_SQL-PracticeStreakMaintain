@@ -7,7 +7,7 @@ LEFT JOIN Treatments t ON d.DoctorID = t.DoctorID
 GROUP BY d.DoctorID, d.Name;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR112?tab=solution
-// Solved on: 2026-10-09T19:03:47.672Z
+// Solved on: 2026-10-09T19:03:57.276Z
 
 -- Write the query to rank doctors based on patient feedback
 -- (Use the concept of Aggregations & Analytical Functions)
