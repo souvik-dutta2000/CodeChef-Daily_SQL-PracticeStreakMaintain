@@ -1,0 +1,8 @@
+// Problem: ASQLPR101G
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR101G
+// Solved on: 2026-10-09T17:54:10.163Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
