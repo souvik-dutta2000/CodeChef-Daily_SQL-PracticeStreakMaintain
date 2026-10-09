@@ -7,7 +7,7 @@ INNER JOIN Doctors d ON a.DoctorID = d.DoctorID
 WHERE a.Status = 'Scheduled';
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR104?tab=solution
-// Solved on: 2026-10-09T18:54:53.865Z
+// Solved on: 2026-10-09T18:55:04.482Z
 
 -- Write the query to fetch all Scheduled Consultations (Use the concept of JOINs)
 
