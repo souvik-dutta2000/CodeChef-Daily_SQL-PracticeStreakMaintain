@@ -66,7 +66,7 @@ CREATE TABLE Billing (
 );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR102?tab=solution
-// Solved on: 2026-10-09T17:55:20.980Z
+// Solved on: 2026-10-09T17:56:34.386Z
 
 -- Creating Doctors Table
 CREATE TABLE Doctors (
