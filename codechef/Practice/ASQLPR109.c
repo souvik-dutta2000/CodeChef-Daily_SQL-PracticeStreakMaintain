@@ -14,7 +14,7 @@ WHERE t.PatientID IN (
 ORDER BY t.PatientID, d.Specialization;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR109?tab=solution
-// Solved on: 2026-10-09T19:01:02.329Z
+// Solved on: 2026-10-09T19:01:06.872Z
 
 SELECT t.PatientID, p.Name, d.Specialization 
 FROM Treatments t
