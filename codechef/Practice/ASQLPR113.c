@@ -21,7 +21,7 @@ GROUP BY d.DoctorID, d.Name, d.Specialization
 ORDER BY Department, RankWithinDepartment;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR113?tab=solution
-// Solved on: 2026-10-09T19:04:45.275Z
+// Solved on: 2026-10-09T19:04:51.273Z
 
 SELECT 
     CASE 
