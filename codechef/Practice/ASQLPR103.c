@@ -35,7 +35,7 @@ SELECT * FROM Patients LIMIT 1;
 SELECT * FROM Appointments LIMIT 1;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR103?tab=solution
-// Solved on: 2026-10-09T18:04:14.972Z
+// Solved on: 2026-10-09T18:05:30.768Z
 
 --- Inserting Data into Doctors Table
 INSERT INTO Doctors (DoctorID, Name, Specialization, ContactNumber, Email) VALUES
