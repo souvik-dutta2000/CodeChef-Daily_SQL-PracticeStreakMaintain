@@ -12,7 +12,7 @@ UPDATE Treatments SET FeedbackScore = 3 WHERE TreatmentID = 3;
 SELECT * FROM Treatments;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR111?tab=solution
-// Solved on: 2026-10-09T19:02:57.278Z
+// Solved on: 2026-10-09T19:03:06.878Z
 
 -- Write all the queries here & SUBMIT them all at once.
 -- Step 1: Write the query to alter the Treatments Table to include a column called 'FeedbackScore'
