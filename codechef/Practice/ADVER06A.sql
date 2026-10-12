@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03A/problems/ADVER06A
-// Solved on: 2026-10-12T11:34:42.644Z
+// Solved on: 2026-10-12T11:34:53.434Z
 
 CREATE TABLE Patients (
     SS VARCHAR(20) PRIMARY KEY,
