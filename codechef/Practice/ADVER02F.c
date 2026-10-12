@@ -7,6 +7,6 @@ PRIMARY KEY (ManufacturerID)
 );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03A/problems/ADVER02F
-// Solved on: 2026-10-05T18:19:08.948Z
+// Solved on: 2026-10-12T11:34:24.631Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
