@@ -10,7 +10,7 @@
 └─────────────┴────────────────┴────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ10?tab=solution
-// Solved on: 2026-10-13T18:11:58.018Z
+// Solved on: 2026-10-13T18:12:02.762Z
 
 /* Write a query which does the following
 - Add a new column 'Hourly_Pay' to the table employee and set the value as 100 by default.
