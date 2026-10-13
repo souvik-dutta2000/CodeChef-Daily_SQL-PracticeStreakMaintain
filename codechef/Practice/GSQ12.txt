@@ -1,0 +1,14 @@
+// Problem: GSQ12
+// Platform: codechef
+// Language: DELETE FROM  student
+WHERE student_id = 08;
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ12?tab=solution
+// Solved on: 2026-10-13T18:17:44.810Z
+
+/* Write a query which does the following
+- Delete all rows in the employee table whose Department is 'Hr'.
+- Output all the entires of the table. */
+DELETE FROM  employee
+WHERE Department = 'Hr';   
+select * from employee;
