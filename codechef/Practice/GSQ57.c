@@ -17,7 +17,7 @@ VALUES  (1, 'John Smith', 25,  '123 Main St','john@example.com'),
         (4, 'Jessica Davis', 28,  '321 Elm St','vy@example.com');
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ57?tab=solution
-// Solved on: 2026-10-14T19:00:45.806Z
+// Solved on: 2026-10-14T19:00:50.852Z
 
 CREATE TABLE customer
 (
