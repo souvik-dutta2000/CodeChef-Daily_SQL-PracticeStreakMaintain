@@ -5,7 +5,7 @@
 └────┴───────────────┴─────┴──────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ54?tab=solution
-// Solved on: 2026-10-14T18:56:24.212Z
+// Solved on: 2026-10-14T18:56:34.951Z
 
 /* Write a query to add an additional column 'email' to the table 'customer'.
 Consider the table 'customer' to have Id, Name, Age, Address as existing columns*/
