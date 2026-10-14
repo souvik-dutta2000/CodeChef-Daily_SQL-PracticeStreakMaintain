@@ -13,7 +13,7 @@ VALUES  (1, 'John Smith', 25,  '123 Main St'),
         (4, 'Jessica Davis', 28,  '321 Elm St');
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ15?tab=solution
-// Solved on: 2026-10-14T18:13:40.303Z
+// Solved on: 2026-10-14T18:13:47.866Z
 
 /* Debug this query to run the problem successfully. 
 - Don’t worry about the actual values as long as you get the query to run. */
