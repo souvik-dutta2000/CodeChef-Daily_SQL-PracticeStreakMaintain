@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS03A/problems/ADVER01E
-// Solved on: 2026-10-10T22:07:33.087Z
+// Solved on: 2026-10-14T18:00:11.257Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
