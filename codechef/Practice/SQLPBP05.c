@@ -10,8 +10,8 @@
 │ 103      │ Eve      │ Bob      │ Bob    │ 2024-01-17 │ 1500  │
 └──────────┴──────────┴──────────┴────────┴────────────┴───────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP05?tab=Help
-// Solved on: 2026-09-24T17:48:06.533Z
+// URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP05
+// Solved on: 2026-10-18T18:54:06.024Z
 
 -- your code goes here
 SELECT m.match_id, m.player_1, m.player_2, m.winner, m.match_date, p.score
