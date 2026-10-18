@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP12
-// Solved on: 2026-10-18T18:46:15.616Z
+// Solved on: 2026-10-18T18:46:33.631Z
 
 -- your code goes here
 select product_name,category from products where price >100.00;
