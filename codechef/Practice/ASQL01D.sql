@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01D
-// Solved on: 2026-10-18T18:09:08.313Z
+// Solved on: 2026-10-18T18:09:18.749Z
 
 -- Customers and Orders: List the customer_name and order_date for all customers who have placed orders.
 
