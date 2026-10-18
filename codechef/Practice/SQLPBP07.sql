@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP07
-// Solved on: 2026-09-24T17:31:23.389Z
+// Solved on: 2026-10-18T18:51:09.687Z
 
 -- your code goes here
 select book_id,title,author,published_year from library where rating is null;
