@@ -6,7 +6,7 @@ FULL OUTER JOIN table2
 ON table1.column = table2.column;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01B
-// Solved on: 2026-10-18T18:07:56.318Z
+// Solved on: 2026-10-20T13:32:33.444Z
 
 -- Write a query to do the following:
 
