@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ60
-// Solved on: 2026-10-20T13:02:43.043Z
+// Solved on: 2026-10-20T18:32:40.330Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
