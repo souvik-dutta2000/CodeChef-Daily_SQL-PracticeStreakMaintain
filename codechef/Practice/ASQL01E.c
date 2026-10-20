@@ -29,8 +29,8 @@
 │ Tablets       │ Tablet       │ 250   │
 └───────────────┴──────────────┴───────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01E?tab=solution
-// Solved on: 2026-10-02T18:11:40.884Z
+// URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01E
+// Solved on: 2026-10-20T18:40:02.129Z
 
 -- 1.All orders with Customers Details: Get all of the orders table and also the details of respective customers if they exist. Use the customer and orders table.
 
