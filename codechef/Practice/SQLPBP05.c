@@ -11,7 +11,7 @@
 └──────────┴──────────┴──────────┴────────┴────────────┴───────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP05
-// Solved on: 2026-10-18T18:54:06.024Z
+// Solved on: 2026-10-23T17:03:23.143Z
 
 -- your code goes here
 SELECT m.match_id, m.player_1, m.player_2, m.winner, m.match_date, p.score
