@@ -1,0 +1,8 @@
+// Problem: SQLP050
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS03/problems/SQLP050
+// Solved on: 2026-10-23T21:30:03.913Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
