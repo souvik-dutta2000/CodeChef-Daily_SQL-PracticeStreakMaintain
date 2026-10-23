@@ -1,0 +1,8 @@
+// Problem: SQLP044
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS03/problems/SQLP044
+// Solved on: 2026-10-23T21:22:33.953Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
