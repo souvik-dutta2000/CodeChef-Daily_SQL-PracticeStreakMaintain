@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP06
-// Solved on: 2026-10-18T18:52:38.419Z
+// Solved on: 2026-10-23T17:03:19.784Z
 
 -- your code goes here
 select author_id,author_name,publication_name from views where view_count = 0 order by author_id asc;
