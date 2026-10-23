@@ -1,0 +1,8 @@
+// Problem: SQLP051
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS03/problems/SQLP051
+// Solved on: 2026-10-23T21:31:27.956Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
