@@ -6,7 +6,7 @@
        GROUP BY 1;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS08/problems/GSQ84
-// Solved on: 2026-10-08T04:42:20.520Z
+// Solved on: 2026-10-23T16:59:43.649Z
 
 /* Write a query to find the percentage of fee paid by the students, aged above 20  to the total fee by all the students across department.\
 Alias the resulting percentage column as Senior_Fee_Percentage*/
