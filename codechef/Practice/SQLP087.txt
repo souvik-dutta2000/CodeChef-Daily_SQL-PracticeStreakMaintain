@@ -1,0 +1,8 @@
+// Problem: SQLP087
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS05/problems/SQLP087
+// Solved on: 2026-10-23T21:40:51.701Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
