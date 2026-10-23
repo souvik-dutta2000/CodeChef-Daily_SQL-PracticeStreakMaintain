@@ -6,6 +6,6 @@
     ON employee.employee_id = department.employee_id;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ61
-// Solved on: 2026-10-22T15:39:51.351Z
+// Solved on: 2026-10-23T16:49:02.999Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
