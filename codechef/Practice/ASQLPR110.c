@@ -5,7 +5,7 @@ FROM Treatments
 GROUP BY Diagnosis;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR110?tab=solution
-// Solved on: 2026-10-09T19:02:08.080Z
+// Solved on: 2026-10-23T17:00:21.273Z
 
 -- Write the query to count the patients with specific conditions.
 -- (Use the concept of Aggregations & Analytical Functions)
