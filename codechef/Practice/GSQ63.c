@@ -6,7 +6,7 @@
      ON customer.cust_id = order.cust_id;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ63
-// Solved on: 2026-10-22T15:41:03.353Z
+// Solved on: 2026-10-23T16:50:27.050Z
 
 /* Write a query to do the following:
  - JOIN the tables 'student' and 'course' using 'Course_id' to match both the tables and output the joined table.
