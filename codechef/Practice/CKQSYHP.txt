@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/skill-test/CKQSYHP
-// Solved on: 2026-10-24T20:25:28.535Z
+// Solved on: 2026-10-24T20:45:49.151Z
 
 // source not captured automatically - open the solution page and copy it manually
