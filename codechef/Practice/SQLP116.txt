@@ -1,0 +1,8 @@
+// Problem: SQLP116
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS07/problems/SQLP116
+// Solved on: 2026-10-24T20:43:33.926Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
