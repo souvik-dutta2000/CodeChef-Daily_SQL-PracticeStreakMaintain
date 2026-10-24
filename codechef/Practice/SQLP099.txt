@@ -1,0 +1,8 @@
+// Problem: SQLP099
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS07/problems/SQLP099
+// Solved on: 2026-10-24T20:36:00.373Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
