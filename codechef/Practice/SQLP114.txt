@@ -1,0 +1,8 @@
+// Problem: SQLP114
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS07/problems/SQLP114
+// Solved on: 2026-10-24T20:42:33.992Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
