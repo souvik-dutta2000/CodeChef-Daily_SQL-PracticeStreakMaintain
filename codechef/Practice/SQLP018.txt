@@ -1,0 +1,8 @@
+// Problem: SQLP018
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS01/problems/SQLP018
+// Solved on: 2026-10-24T20:34:01.435Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
