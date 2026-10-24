@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS07/problems/SQLP100
-// Solved on: 2026-10-24T20:36:18.326Z
+// Solved on: 2026-10-24T20:36:35.126Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
