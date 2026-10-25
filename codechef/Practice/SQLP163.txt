@@ -1,0 +1,8 @@
+// Problem: Determine which among the given options can act as primary key in “ Belongs_To ” table ?
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS11/problems/SQLP163
+// Solved on: 2026-10-25T19:17:00.564Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
