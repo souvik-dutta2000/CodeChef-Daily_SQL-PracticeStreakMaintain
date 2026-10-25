@@ -1,0 +1,8 @@
+// Problem: SQLP148
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS09/problems/SQLP148
+// Solved on: 2026-10-25T19:15:19.376Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
