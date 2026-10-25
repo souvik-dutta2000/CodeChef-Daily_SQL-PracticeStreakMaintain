@@ -1,0 +1,8 @@
+// Problem: SQLP176
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS11/problems/SQLP176
+// Solved on: 2026-10-25T19:31:38.112Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
