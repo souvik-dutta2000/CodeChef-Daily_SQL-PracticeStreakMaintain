@@ -1,0 +1,8 @@
+// Problem: SQLP178
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS11/problems/SQLP178
+// Solved on: 2026-10-25T19:34:20.128Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
