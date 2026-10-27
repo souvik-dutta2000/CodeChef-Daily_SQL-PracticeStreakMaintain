@@ -1,0 +1,19 @@
+// Problem: RSMSPR06A
+// Platform: codechef
+// Language: ┌───────────────┐
+│ total_revenue │
+├───────────────┤
+│ 4501.89       │
+└───────────────┘
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06A?tab=solution
+// Solved on: 2026-10-27T20:24:23.702Z
+
+ROLLBACK TO S1;
+
+/* Update your query below this line*/
+ROLLBACK TO S1;
+
+--Solution as follows
+SELECT SUM(total_amount) AS total_revenue 
+FROM Orders;
