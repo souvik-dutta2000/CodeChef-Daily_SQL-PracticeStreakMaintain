@@ -1,0 +1,18 @@
+// Problem: GSQ59
+// Platform: codechef
+// Language: ┌────────────┬─────────┐
+│ Department │ avg_age │
+├────────────┼─────────┤
+│ Operations │ 23.0    │
+│ Sales      │ 20.5    │
+└────────────┴─────────┘
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ59?tab=solution
+// Solved on: 2026-10-27T01:18:23.817Z
+
+/* Debug the below query */
+SELECT Department, 
+   Avg(Age) as 'avg_age'
+FROM employee
+GROUP BY Department
+HAVING Count(Department) > 3;
