@@ -7,8 +7,8 @@
 │ Sales      │ 20.5    │
 └────────────┴─────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ59?tab=solution
-// Solved on: 2026-10-27T01:18:23.817Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ59
+// Solved on: 2026-10-27T01:19:36.362Z
 
 /* Debug the below query */
 SELECT Department, 
