@@ -1,0 +1,18 @@
+// Problem: GSQ58
+// Platform: codechef
+// Language: ┌─────────┬─────────┐
+│ min_pay │ max_pay │
+├─────────┼─────────┤
+│ 123.54  │ 789.43  │
+└─────────┴─────────┘
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ58?tab=solution
+// Solved on: 2026-10-27T01:08:12.250Z
+
+/* **Debug this query** to output the minimum and maximum value of payout, round to 2 decimal places. */
+
+
+select round(min(Payout),2) as 'min_pay',
+    round(max(Payout),2) as 'max_pay'
+from employee;
+
