@@ -1,0 +1,16 @@
+// Problem: RSMSPR04D
+// Platform: codechef
+// Language: ┌──────────┬─────────────┬─────────────┐
+│   name   │   address   │ new_address │
+├──────────┼─────────────┼─────────────┤
+│ John Doe │ 123 Main St │ Unknown     │
+└──────────┴─────────────┴─────────────┘
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04D?tab=solution
+// Solved on: 2026-10-27T20:20:17.708Z
+
+/* Update your query here*/
+ALTER TABLE Customers
+ADD COLUMN new_address TEXT DEFAULT 'Unknown';
+SELECT name, address, new_address
+FROM Customers LIMIT 1;
