@@ -1,0 +1,23 @@
+// Problem: RSMSPR07C
+// Platform: codechef
+// Language: ┌──────────┬────────────────┐
+│ order_id │ Remarks_if_any │
+├──────────┼────────────────┤
+│ 1001     │ NULL           │
+│ 1004     │ NULL           │
+│ 1007     │ NULL           │
+│ 1009     │ NULL           │
+└──────────┴────────────────┘
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR07C?tab=solution
+// Solved on: 2026-10-27T20:26:24.906Z
+
+/* Update your query here*/
+--Solution as follows
+UPDATE Orders
+SET Remarks_if_any = NULL
+WHERE Remarks_if_any = "No Remarks";
+
+SELECT order_id, Remarks_if_any
+FROM Orders
+WHERE Remarks_if_any IS NULL;
