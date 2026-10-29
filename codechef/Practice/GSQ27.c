@@ -7,8 +7,8 @@
 │ 10002        │ Riya           │ Female │ Mumbai │ Delhi       │
 └──────────────┴────────────────┴────────┴────────┴─────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ27?tab=solution
-// Solved on: 2026-10-27T01:00:21.650Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ27
+// Solved on: 2026-10-29T14:50:06.092Z
 
 /* Debug this query to meet the following conditons
 - Passenger gender - Female AND
