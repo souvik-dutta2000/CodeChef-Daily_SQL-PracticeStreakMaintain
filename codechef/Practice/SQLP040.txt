@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS03/problems/SQLP040
-// Solved on: 2026-10-23T21:20:54.306Z
+// Solved on: 2026-10-29T18:50:51.862Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
