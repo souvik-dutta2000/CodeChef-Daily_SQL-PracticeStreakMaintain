@@ -10,8 +10,8 @@ where origin like '%York%';
 │ 10007        │ Jackson        │ Male   │ New York │ London      │
 └──────────────┴────────────────┴────────┴──────────┴─────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ25?tab=solution
-// Solved on: 2026-10-27T00:58:47.987Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ25
+// Solved on: 2026-10-29T14:49:40.892Z
 
 /* Write a query that returns the rows which meet the following conditions
 - Passenger names that end with 'a' */
