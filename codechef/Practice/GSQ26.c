@@ -8,8 +8,8 @@ Flights
 │ 10004        │ Anthony        │ Male   │ Mumbai │ Cairo       │
 └──────────────┴────────────────┴────────┴────────┴─────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ26?tab=solution
-// Solved on: 2026-10-27T00:59:24.033Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ26
+// Solved on: 2026-10-29T14:49:55.297Z
 
 /* write a query with the following conditions
 - Destination city end in 'o' AND
