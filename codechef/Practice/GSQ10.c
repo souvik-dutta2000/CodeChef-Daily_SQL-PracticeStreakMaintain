@@ -9,8 +9,8 @@
 │ 4           │ Marcus Garcia  │ Hr         │
 └─────────────┴────────────────┴────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ10?tab=solution
-// Solved on: 2026-10-23T17:01:18.774Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ10
+// Solved on: 2026-10-29T14:42:22.399Z
 
 /* Write a query which does the following
 - Add a new column 'Hourly_Pay' to the table employee and set the value as 100 by default.
