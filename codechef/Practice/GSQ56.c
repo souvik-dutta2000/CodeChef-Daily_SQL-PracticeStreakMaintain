@@ -9,8 +9,8 @@
 │ 4  │ Jessica Davis │ 28  │ 321 Elm St   │ jessica.davis@example.com │
 └────┴───────────────┴─────┴──────────────┴───────────────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ56?tab=solution
-// Solved on: 2026-10-23T17:01:47.374Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ56
+// Solved on: 2026-10-29T14:46:41.624Z
 
 /*Write a query which does the following
 - Delete the entire row of the customer with customer id 1.
