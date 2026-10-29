@@ -9,8 +9,8 @@
 │ 4           │ Marcus Garcia  │ Product    │
 └─────────────┴────────────────┴────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ14?tab=solution
-// Solved on: 2026-10-14T18:12:59.506Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ14
+// Solved on: 2026-10-29T14:44:21.201Z
 
 /* Write a query which does the following
 - Delete the row where the department is Client.
