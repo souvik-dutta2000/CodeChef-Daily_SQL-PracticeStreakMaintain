@@ -10,8 +10,8 @@
 │ 5  │ David Lee     │ 35  │ 555 Park Ave │ David@example.com         │
 └────┴───────────────┴─────┴──────────────┴───────────────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ55?tab=solution
-// Solved on: 2026-10-23T17:01:42.420Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ55
+// Solved on: 2026-10-29T14:46:30.875Z
 
 /* Write a query which does the following
 - Update the age to 52 for the customer with customer id 3.
