@@ -2,7 +2,7 @@
 // Platform: codechef
 // Language: unknown
 // Verdict: Accepted
-// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS01/problems/SQLP003?tab=statement
-// Solved on: 2026-10-24T20:27:27.834Z
+// URL: https://www.codechef.com/practice/course/sql-case-study/SQLCS01/problems/SQLP003
+// Solved on: 2026-10-30T23:35:21.690Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
