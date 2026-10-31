@@ -3,8 +3,8 @@
 // Language: INSERT INTO student (student_id, student_name, contact_number)
 VALUES (34, 'Abel George', 910023432);
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ05?tab=solution
-// Solved on: 2026-10-29T14:37:45.420Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ05
+// Solved on: 2026-10-31T19:30:16.623Z
 
 /* Solution as follows*/
 
