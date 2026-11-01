@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ62
-// Solved on: 2026-10-23T17:03:32.414Z
+// Solved on: 2026-11-01T19:35:30.659Z
 
 /* Write a query to join the tables 'student' and 'course' and output the same. Check if you can find the course with id ENG201 in the output */
 SELECT *
