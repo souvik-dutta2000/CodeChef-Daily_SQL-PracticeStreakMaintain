@@ -5,7 +5,7 @@
  CROSS JOIN Model
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ65
-// Solved on: 2026-10-23T17:02:40.099Z
+// Solved on: 2026-11-01T19:43:19.860Z
 
 /* Write a query cross join the table 'student' and 'course' and check out all possible courses a student can opt. Output the table after cross join */
 SELECT St_Name,Course_Name
