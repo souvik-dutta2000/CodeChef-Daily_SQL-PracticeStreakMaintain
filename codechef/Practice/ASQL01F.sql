@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01F
-// Solved on: 2026-10-23T17:04:16.949Z
+// Solved on: 2026-11-01T19:44:18.646Z
 
 -- 1.Employee and Manager Names: Display a list of employee names along with their manager's names. Use the 'employees' table provided.
 
