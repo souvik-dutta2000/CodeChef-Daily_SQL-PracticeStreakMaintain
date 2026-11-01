@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ61A
-// Solved on: 2026-10-23T17:02:56.284Z
+// Solved on: 2026-11-01T19:35:19.834Z
 
 /* Write a query to join the table 'student' and 'course' using 'Course_id' to match both the tables and output the joined table. */
 select *
