@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ53
-// Solved on: 2026-10-31T19:33:33.282Z
+// Solved on: 2026-11-02T19:08:28.635Z
 
 /* Write a query which does the following */
 
