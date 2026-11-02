@@ -9,7 +9,7 @@
 └────────────────┴────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS04/problems/GSQ20
-// Solved on: 2026-10-29T14:48:30.715Z
+// Solved on: 2026-11-02T19:11:26.107Z
 
 /* Write a query that does the following
 - Where the origin of the flight is 'New York'
