@@ -8,7 +8,7 @@
 └────┴───────────────┴─────┴──────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ06
-// Solved on: 2026-10-31T19:31:16.620Z
+// Solved on: 2026-11-02T19:01:38.223Z
 
 /* The Query written in the console is trying to insert data to the table employee.
 Debug this query to output the entire table */
