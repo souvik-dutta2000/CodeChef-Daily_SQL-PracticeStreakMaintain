@@ -6,8 +6,8 @@
 │ John Doe │ 123 Main St │ Unknown     │
 └──────────┴─────────────┴─────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04D?tab=solution
-// Solved on: 2026-10-27T20:20:17.708Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04D
+// Solved on: 2026-11-03T19:43:03.378Z
 
 /* Update your query here*/
 ALTER TABLE Customers
