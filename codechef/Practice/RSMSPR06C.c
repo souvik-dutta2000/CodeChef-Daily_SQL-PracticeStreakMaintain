@@ -2,8 +2,8 @@
 // Platform: codechef
 // Language: SELECT strftime('%Y-%m', order_date) AS order_month
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06C?tab=solution
-// Solved on: 2026-10-27T20:25:02.104Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06C
+// Solved on: 2026-11-03T19:45:12.979Z
 
 ROLLBACK TO S1;
 
