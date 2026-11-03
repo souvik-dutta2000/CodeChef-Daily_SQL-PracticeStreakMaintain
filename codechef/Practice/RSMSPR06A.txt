@@ -6,8 +6,8 @@
 │ 4501.89       │
 └───────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06A?tab=solution
-// Solved on: 2026-10-27T20:24:23.702Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06A
+// Solved on: 2026-11-03T19:44:50.186Z
 
 ROLLBACK TO S1;
 
