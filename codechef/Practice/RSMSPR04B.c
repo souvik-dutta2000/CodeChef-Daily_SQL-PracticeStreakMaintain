@@ -6,8 +6,8 @@
 │ 1001     │ 999.99       │ 0.0      │
 └──────────┴──────────────┴──────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04B?tab=solution
-// Solved on: 2026-10-27T20:18:04.575Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04B
+// Solved on: 2026-11-03T19:42:38.173Z
 
 /* Update your query here*/
 ALTER TABLE Orders ADD COLUMN discount REAL DEFAULT 0;
