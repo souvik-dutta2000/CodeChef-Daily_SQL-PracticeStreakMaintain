@@ -6,8 +6,8 @@
 │ Apple iPhone 15 │ 1099.989 │ 10             │
 └─────────────────┴──────────┴────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04A?tab=solution
-// Solved on: 2026-10-27T20:15:36.908Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04A
+// Solved on: 2026-11-03T19:42:23.776Z
 
 /* Update your query here*/
 UPDATE Products
