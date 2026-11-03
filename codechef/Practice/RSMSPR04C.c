@@ -6,8 +6,8 @@
 │ 101        │ Apple iPhone 15 │ Electronics │ 999.99   │ 0              │
 └────────────┴─────────────────┴─────────────┴──────────┴────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04C?tab=solution
-// Solved on: 2026-10-27T20:19:53.775Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR04C
+// Solved on: 2026-11-03T19:42:52.572Z
 
 /* Update your query here*/
 UPDATE Products
