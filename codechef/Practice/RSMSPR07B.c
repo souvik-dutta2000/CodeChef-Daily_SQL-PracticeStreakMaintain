@@ -6,8 +6,8 @@
 │ 10          │ Henry Adams │ henry.a@email.com │ 9312465789 │ 22 Walnut Lane │ 23 Walnut Lane │
 └─────────────┴─────────────┴───────────────────┴────────────┴────────────────┴────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR07B?tab=solution
-// Solved on: 2026-10-27T20:26:06.901Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR07B
+// Solved on: 2026-11-03T19:47:11.838Z
 
 UPDATE Customers
 SET new_address = NULL
