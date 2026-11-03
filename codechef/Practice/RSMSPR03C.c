@@ -7,8 +7,8 @@
 │ 109        │ Sofa Set (3+1+1) │ Furniture   │ 999.99 │ 4              │
 └────────────┴──────────────────┴─────────────┴────────┴────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR03C?tab=solution
-// Solved on: 2026-10-27T20:14:59.709Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR03C
+// Solved on: 2026-11-03T19:41:52.580Z
 
 /* Update your query here */
 SELECT * FROM Products ORDER BY price DESC LIMIT 2;
