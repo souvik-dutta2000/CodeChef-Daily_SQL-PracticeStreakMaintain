@@ -10,8 +10,8 @@
 │ 10          │ Henry Adams  │
 └─────────────┴──────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR05C?tab=solution
-// Solved on: 2026-10-27T20:23:24.909Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR05C
+// Solved on: 2026-11-03T19:44:26.178Z
 
 BEGIN TRANSACTION;
 SAVEPOINT S1;
