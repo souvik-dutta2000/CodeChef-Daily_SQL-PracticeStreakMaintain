@@ -14,8 +14,8 @@
 │ 110        │ Organic Honey 500ml │ 30             │
 └────────────┴─────────────────────┴────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR05A?tab=Help
-// Solved on: 2026-10-27T20:21:45.375Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR05A
+// Solved on: 2026-11-03T19:43:46.583Z
 
 BEGIN TRANSACTION;
 SAVEPOINT S1;
