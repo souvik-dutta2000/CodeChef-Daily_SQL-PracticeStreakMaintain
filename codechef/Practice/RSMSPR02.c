@@ -22,8 +22,8 @@
 │ 1003     │ 3           │ 2024-01-17 │ 129.99       │ Payment Pending │
 └──────────┴─────────────┴────────────┴──────────────┴─────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR02?tab=solution
-// Solved on: 2026-10-27T20:13:50.122Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR02
+// Solved on: 2026-11-03T19:41:08.175Z
 
 /*Solution as follows*/
 
