@@ -6,8 +6,8 @@
 │ 1001     │ 1           │ 2024-01-15 │ 999.99       │ No Remarks     │
 └──────────┴─────────────┴────────────┴──────────────┴────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR03B?tab=solution
-// Solved on: 2026-10-27T20:14:35.711Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR03B
+// Solved on: 2026-11-03T19:41:40.578Z
 
 /* Update your query below*/
 SELECT * FROM Orders WHERE total_amount > 900;
