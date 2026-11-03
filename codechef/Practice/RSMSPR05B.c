@@ -10,8 +10,8 @@
 │ 1010     │ 10          │ 2024-01-24 │ 15.99        │
 └──────────┴─────────────┴────────────┴──────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR05B?tab=Help
-// Solved on: 2026-10-27T20:22:57.411Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR05B
+// Solved on: 2026-11-03T19:43:58.584Z
 
 BEGIN TRANSACTION;
 SAVEPOINT S1;
