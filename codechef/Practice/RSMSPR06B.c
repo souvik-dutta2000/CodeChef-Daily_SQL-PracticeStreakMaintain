@@ -6,8 +6,8 @@
 │ 599.99                    │
 └───────────────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06B?tab=solution
-// Solved on: 2026-10-27T20:24:45.305Z
+// URL: https://www.codechef.com/learn/course/sql/BEGSQLPR/problems/RSMSPR06B
+// Solved on: 2026-11-03T19:45:00.981Z
 
 /* Update your query here*/
 SELECT AVG(customer_total) AS avg_spending_per_customer
