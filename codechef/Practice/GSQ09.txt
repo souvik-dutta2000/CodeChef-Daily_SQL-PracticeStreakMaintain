@@ -5,7 +5,7 @@ SET Age = 6
 WHERE student_id = 23;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ09
-// Solved on: 2026-11-02T19:05:23.110Z
+// Solved on: 2026-11-05T18:56:06.399Z
 
 /*Write a query to set the Department as 'HR', for the employee with employee_id 2 to the existing table employee. */
 update employee set Department ='HR'
