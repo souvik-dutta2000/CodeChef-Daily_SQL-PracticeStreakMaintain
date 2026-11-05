@@ -8,7 +8,7 @@
 └──────────────┴────────────────┴────────┴────────┴─────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ27
-// Solved on: 2026-11-05T19:02:48.766Z
+// Solved on: 2026-11-05T19:05:51.973Z
 
 /* Debug this query to meet the following conditons
 - Passenger gender - Female AND
