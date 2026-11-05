@@ -11,7 +11,7 @@
 └─────────────┴────────────────┴────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ07
-// Solved on: 2026-11-02T19:01:22.624Z
+// Solved on: 2026-11-05T18:53:51.589Z
 
 /* Write a query to add the below mentioned employee details to the EMPLOYEE table.
 Employee id: 06, Employee Name: Brandon Kim, Department: Operations
