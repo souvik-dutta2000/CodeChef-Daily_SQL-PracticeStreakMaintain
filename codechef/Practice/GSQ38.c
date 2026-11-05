@@ -3,8 +3,8 @@
 // Language: SELECT MAX(Age)
 FROM customer;
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ38?tab=solution
-// Solved on: 2026-10-27T01:04:06.251Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ38
+// Solved on: 2026-11-05T19:06:36.217Z
 
 /*Write a query to find the highest and lowest 'Hourly_pay' of the employees from the table 'employee'*/
 
