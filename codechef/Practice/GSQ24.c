@@ -5,7 +5,7 @@ where origin = 'Mumbai'
 or origin = 'New York';
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ24
-// Solved on: 2026-11-03T19:37:08.470Z
+// Solved on: 2026-11-05T19:05:21.967Z
 
 /*write a query that returns the rows which meet the following conditions
 - Either Origin is Mumbai or the Destination is Mumbai */
