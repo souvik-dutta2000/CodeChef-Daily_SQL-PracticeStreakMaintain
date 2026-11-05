@@ -15,8 +15,8 @@
 │ 10          │ Brandon Adams  │ Product    │ 43         │
 └─────────────┴────────────────┴────────────┴────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ40?tab=solution
-// Solved on: 2026-10-27T01:05:18.203Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ40
+// Solved on: 2026-11-05T19:06:55.422Z
 
 /*Write 3 separate queries to output the entries for the following
 - Count the number of employees in the department 'Sales'.
