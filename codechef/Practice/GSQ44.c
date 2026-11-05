@@ -12,8 +12,8 @@
 │ 12.41975    │
 └─────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ44?tab=solution
-// Solved on: 2026-10-27T01:10:20.154Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ44
+// Solved on: 2026-11-05T19:07:48.767Z
 
 /* Write a query to output the following on separate lines
 - Total Payout for the Product department.
