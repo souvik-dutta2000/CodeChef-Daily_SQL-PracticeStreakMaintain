@@ -3,8 +3,8 @@
 // Language: SELECT employee_id AS 'Serial'
 FROM employee;
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ37A?tab=solution
-// Solved on: 2026-10-27T01:02:54.261Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ37A
+// Solved on: 2026-11-05T19:06:13.422Z
 
 /* Write a query to output all from the following columns in the table 'employee'
 - Rename employee_id as 'Serial'
