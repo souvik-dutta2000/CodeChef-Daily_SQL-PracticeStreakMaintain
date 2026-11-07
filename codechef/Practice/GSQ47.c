@@ -9,8 +9,8 @@
 │ Sales      │ 20.34625         │
 └────────────┴──────────────────┘
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ47?tab=solution
-// Solved on: 2026-10-27T01:16:54.996Z
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ47
+// Solved on: 2026-11-07T17:01:26.875Z
 
 /* Write a query to output the following
 - Department and average payout on a single line
