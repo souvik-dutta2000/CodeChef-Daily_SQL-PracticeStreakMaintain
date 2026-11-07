@@ -4,7 +4,7 @@
 FROM customer;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ37
-// Solved on: 2026-11-05T19:06:23.019Z
+// Solved on: 2026-11-07T16:59:32.397Z
 
 /* Write a query to count the rows of the table EMPLOYEE.*/
 
