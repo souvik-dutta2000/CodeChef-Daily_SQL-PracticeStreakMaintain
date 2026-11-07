@@ -17,7 +17,7 @@
 └────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ41
-// Solved on: 2026-11-05T19:07:05.019Z
+// Solved on: 2026-11-07T17:00:22.797Z
 
 /* Write a query to output the following:
 - Round the column **Payout** to 2 decimal places. */
