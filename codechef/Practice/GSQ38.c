@@ -4,7 +4,7 @@
 FROM customer;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ38
-// Solved on: 2026-11-05T19:06:36.217Z
+// Solved on: 2026-11-07T16:59:51.598Z
 
 /*Write a query to find the highest and lowest 'Hourly_pay' of the employees from the table 'employee'*/
 
