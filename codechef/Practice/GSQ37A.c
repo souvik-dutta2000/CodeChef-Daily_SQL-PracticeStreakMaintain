@@ -4,7 +4,7 @@
 FROM employee;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ37A
-// Solved on: 2026-11-05T19:06:13.422Z
+// Solved on: 2026-11-07T16:59:20.396Z
 
 /* Write a query to output all from the following columns in the table 'employee'
 - Rename employee_id as 'Serial'
