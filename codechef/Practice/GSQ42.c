@@ -4,7 +4,7 @@
 FROM customer;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ42
-// Solved on: 2026-11-05T19:07:28.370Z
+// Solved on: 2026-11-07T17:00:42.477Z
 
 /* Write a query to find the sum of the Payout from the table EMPLOYEE. */
 SELECT SUM(Payout) as 'total_payout'
