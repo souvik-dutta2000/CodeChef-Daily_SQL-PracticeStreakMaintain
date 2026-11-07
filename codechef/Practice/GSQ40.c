@@ -16,7 +16,7 @@
 └─────────────┴────────────────┴────────────┴────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS08/problems/GSQ40
-// Solved on: 2026-11-05T19:06:55.422Z
+// Solved on: 2026-11-07T17:00:13.187Z
 
 /*Write 3 separate queries to output the entries for the following
 - Count the number of employees in the department 'Sales'.
