@@ -8,7 +8,7 @@
 └────────────┴─────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS09/problems/GSQ59
-// Solved on: 2026-10-27T01:19:36.362Z
+// Solved on: 2026-11-07T17:02:02.970Z
 
 /* Debug the below query */
 SELECT Department, 
