@@ -7,7 +7,7 @@
  FROM Mfg_Int;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/GSQ66
-// Solved on: 2026-11-01T19:48:47.573Z
+// Solved on: 2026-11-08T16:38:55.270Z
 
 /* Write a query using union to stack the table 'Arts' over 'Science' and output the final table */
 SELECT * FROM Arts
