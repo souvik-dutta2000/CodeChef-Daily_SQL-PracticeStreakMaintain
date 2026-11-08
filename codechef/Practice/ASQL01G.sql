@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01G
-// Solved on: 2026-11-01T19:44:36.644Z
+// Solved on: 2026-11-08T16:26:37.201Z
 
 -- 1.Product Report: List the Product name, with their category names, customer name, and the order date for customers who ordered that particular product.
 
