@@ -9,6 +9,6 @@
   );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/GSQ64
-// Solved on: 2026-11-01T19:45:28.426Z
+// Solved on: 2026-11-08T16:26:50.309Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
