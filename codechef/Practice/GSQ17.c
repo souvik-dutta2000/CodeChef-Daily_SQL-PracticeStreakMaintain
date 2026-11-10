@@ -4,7 +4,7 @@
     from Flights;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS04/problems/GSQ17
-// Solved on: 2026-11-09T12:07:02.187Z
+// Solved on: 2026-11-10T15:09:55.537Z
 
 /* Write a query which does the following
 - Fetch the entry specifically from 2 columns - 'Passenger_name' and 'Gender' */
