@@ -4,7 +4,7 @@
 WHERE student_id = 08;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ12
-// Solved on: 2026-11-10T15:47:21.738Z
+// Solved on: 2026-11-11T09:43:36.190Z
 
 /* Write a query which does the following
 - Delete all rows in the employee table whose Department is 'Hr'.
