@@ -1,0 +1,8 @@
+// Problem: GSQ55
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ55
+// Solved on: 2026-11-13T07:49:41.456Z
+
+# cook your dish here
