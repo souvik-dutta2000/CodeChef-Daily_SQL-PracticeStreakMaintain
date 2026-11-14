@@ -5,7 +5,7 @@
     WHERE Origin = 'Mumbai';
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS04/problems/GSQ19
-// Solved on: 2026-11-13T20:21:43.033Z
+// Solved on: 2026-11-14T20:52:32.371Z
 
 /* Write a query to identify flights that originate out of Mumbai */
 Select *
