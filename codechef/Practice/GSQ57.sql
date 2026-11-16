@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ57
-// Solved on: 2026-11-15T22:40:48.472Z
+// Solved on: 2026-11-16T21:30:09.963Z
 
 CREATE TABLE customer
 (
