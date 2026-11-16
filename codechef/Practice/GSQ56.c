@@ -10,7 +10,7 @@
 └────┴───────────────┴─────┴──────────────┴───────────────────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ56
-// Solved on: 2026-11-15T22:40:36.471Z
+// Solved on: 2026-11-16T21:29:11.071Z
 
 /*Write a query which does the following
 - Delete the entire row of the customer with customer id 1.
