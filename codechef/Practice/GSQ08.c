@@ -4,7 +4,7 @@
     ADD COLUMN Department TEXT default NULL;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ08
-// Solved on: 2026-11-15T22:36:49.951Z
+// Solved on: 2026-11-16T21:25:38.735Z
 
 /* Write a query to add a column 'Designation' to the table and set 'Null' as the default value. Output the entire table.*/
 
