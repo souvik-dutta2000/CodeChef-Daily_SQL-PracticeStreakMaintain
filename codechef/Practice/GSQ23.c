@@ -5,7 +5,7 @@ where origin = 'Mumbai'
 and passenger_id BETWEEN 10001 AND 10007;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ23
-// Solved on: 2026-11-15T22:43:51.465Z
+// Solved on: 2026-11-16T22:03:14.892Z
 
 /* write a query below that returns the rows which meet the following conditions
 - Gender - Female
