@@ -4,7 +4,7 @@
 where passenger_name BETWEEN 'A' AND 'D';
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS04/problems/GSQ19A
-// Solved on: 2026-11-15T22:42:41.512Z
+// Solved on: 2026-11-16T22:02:04.750Z
 
 /* Write a query to do the following
 - Output all entries from the table
