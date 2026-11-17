@@ -4,7 +4,7 @@
 VALUES (34, 'Abel George', 910023432);
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ05
-// Solved on: 2026-11-16T21:23:37.536Z
+// Solved on: 2026-11-17T18:52:29.570Z
 
 /* Solution as follows*/
 
