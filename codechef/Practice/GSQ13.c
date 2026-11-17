@@ -6,7 +6,7 @@
      department TEXT NOT NULL CHECK (department IN ('CSE', 'ECE', 'EEE')));
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ13
-// Solved on: 2026-11-16T21:27:47.133Z
+// Solved on: 2026-11-17T18:59:36.930Z
 
 /* Write a query to create a table employee with the mentioned constraints on the columns : 
 employee_id - PRIMARY KEY, 
