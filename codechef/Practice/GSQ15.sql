@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ15
-// Solved on: 2026-11-17T19:00:00.866Z
+// Solved on: 2026-11-18T20:01:00.951Z
 
 /* Debug this query to run the problem successfully. 
 - Don’t worry about the actual values as long as you get the query to run. */
