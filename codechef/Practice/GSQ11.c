@@ -10,7 +10,7 @@
 └─────────────┴────────────────┴────────────┴────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ11
-// Solved on: 2026-11-18T19:59:53.746Z
+// Solved on: 2026-11-19T19:52:00.503Z
 
 /* Write a query to do the following
 - Set hourly_pay to 150 for HR employees
