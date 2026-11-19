@@ -10,7 +10,7 @@
 └─────────────┴────────────────┴────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ14
-// Solved on: 2026-11-18T20:00:47.746Z
+// Solved on: 2026-11-19T19:52:56.909Z
 
 /* Write a query which does the following
 - Delete the row where the department is Client.
