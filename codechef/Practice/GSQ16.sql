@@ -3,6 +3,6 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS04/problems/GSQ16
-// Solved on: 2026-11-18T20:03:00.811Z
+// Solved on: 2026-11-19T20:02:29.709Z
 
 select * from Flights
