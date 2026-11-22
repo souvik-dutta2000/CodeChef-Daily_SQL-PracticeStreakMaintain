@@ -4,7 +4,7 @@
      from Flights;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS04/problems/GSQ18
-// Solved on: 2026-11-21T14:33:30.461Z
+// Solved on: 2026-11-22T13:05:01.453Z
 
 /* Write a query to find the unique origin locations */
 select DISTINCT Origin 
