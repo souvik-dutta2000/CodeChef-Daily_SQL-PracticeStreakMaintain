@@ -9,7 +9,7 @@ Flights
 └──────────────┴────────────────┴────────┴────────┴─────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ26
-// Solved on: 2026-11-21T14:35:44.512Z
+// Solved on: 2026-11-22T13:16:29.647Z
 
 /* write a query with the following conditions
 - Destination city end in 'o' AND
