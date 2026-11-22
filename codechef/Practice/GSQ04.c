@@ -7,7 +7,7 @@
     );
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ04
-// Solved on: 2026-11-21T14:16:39.434Z
+// Solved on: 2026-11-22T12:51:17.559Z
 
 /* Write a query to create a table 'employee', with columns employee_id, employee_Name and Department. 
 Update the blanks below to solve this problem */
