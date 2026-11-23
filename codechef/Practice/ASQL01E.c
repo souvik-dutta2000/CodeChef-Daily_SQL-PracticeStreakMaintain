@@ -30,7 +30,7 @@
 └───────────────┴──────────────┴───────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01E
-// Solved on: 2026-11-08T16:26:11.987Z
+// Solved on: 2026-11-23T14:58:48.400Z
 
 -- 1.All orders with Customers Details: Get all of the orders table and also the details of respective customers if they exist. Use the customer and orders table.
 
