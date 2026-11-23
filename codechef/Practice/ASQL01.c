@@ -6,7 +6,7 @@ RIGHT JOIN order
 ON customer.cust_id = order.cust_id;
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01
-// Solved on: 2026-11-01T19:41:03.107Z
+// Solved on: 2026-11-23T14:57:38.803Z
 
 /* Write the queries to do the following:
  - JOIN the tables 'student' and 'course' using 'Course_id' to match both the tables and output the joined table.
