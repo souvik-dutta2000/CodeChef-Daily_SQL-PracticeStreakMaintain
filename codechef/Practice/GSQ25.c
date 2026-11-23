@@ -11,7 +11,7 @@ where origin like '%York%';
 └──────────────┴────────────────┴────────┴──────────┴─────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS05/problems/GSQ25
-// Solved on: 2026-11-22T13:16:06.839Z
+// Solved on: 2026-11-23T11:09:08.255Z
 
 /* Write a query that returns the rows which meet the following conditions
 - Passenger names that end with 'a' */
