@@ -11,7 +11,7 @@
 └────┴───────────────┴─────┴──────────────┴───────────────────────────┘
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS03/problems/GSQ55
-// Solved on: 2026-11-23T11:06:01.965Z
+// Solved on: 2026-11-24T04:49:39.616Z
 
 /* Write a query which does the following
 - Update the age to 52 for the customer with customer id 3.
