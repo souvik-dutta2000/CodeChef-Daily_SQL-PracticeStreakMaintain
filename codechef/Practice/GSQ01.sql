@@ -3,7 +3,7 @@
 // Language: SQL​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ01
-// Solved on: 2026-11-24T04:42:43.340Z
+// Solved on: 2026-11-25T12:52:09.060Z
 
 /*Click on Submit to check the output.
 Click on Next to proceed */
