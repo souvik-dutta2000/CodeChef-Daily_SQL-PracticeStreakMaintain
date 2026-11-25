@@ -3,6 +3,6 @@
 // Language: title VARCHAR(255) UNIQUE
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ03E
-// Solved on: 2026-11-25T12:52:57.053Z
+// Solved on: 2026-11-25T19:44:56.129Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
